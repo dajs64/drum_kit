@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/JavaScript30-master/01 - JavaScript Drum Kit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "drum_kit"
+	}
+}
